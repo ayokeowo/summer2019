@@ -99,4 +99,4 @@ function Get-ARMVmStatus {
     }
 }
 
-# get-azvm
+Get-AzAccount 8
